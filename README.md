@@ -8,3 +8,4 @@ Adding changes to create merge and conflicts.
 Adding changes from local repository to create conflicts.
 
 ## Adding changes from Development branch
+Changes to learn more about tags and releases.
